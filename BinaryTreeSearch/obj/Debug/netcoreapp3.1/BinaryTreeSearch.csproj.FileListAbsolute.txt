@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.exe
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.deps.json
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.runtimeconfig.json
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.dll
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\bin\Debug\netcoreapp3.1\BinaryTreeSearch.pdb
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.dll
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.pdb
+C:\Users\SANTANU\source\repos\BinaryTreeSearch\BinaryTreeSearch\obj\Debug\netcoreapp3.1\BinaryTreeSearch.genruntimeconfig.cache
