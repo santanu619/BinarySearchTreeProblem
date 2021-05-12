@@ -22,7 +22,7 @@ namespace BinaryTreeSearch
             binarySearch.Insert(67);
             binarySearch.Display();
             binarySearch.GetSize();
-            bool result = binarySearch.IfExist(16, binarySearch);
+            bool result = binarySearch.IfExist(99, binarySearch);
             Console.WriteLine(result);
 
         }
